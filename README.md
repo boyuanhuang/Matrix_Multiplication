@@ -9,6 +9,6 @@ Dans le terminal, saisir ' python generate.py your_filename 10 10 10 '  # genere
 Puis python mapper.py | python reducer.py
 
 Test de algo2 : 
-Dans le terminal, saisir ' python generator_algo2.py ' 
+Dans le terminal, saisir ' python generator_algo2.py '  # Ceci genere matrice A de dimension 400x400 et matrice B de dimension  400x400. 
 Puis python mapper1_algo2.py | sort | reducer1_algo2.py | sort | python reducer2_algo2.py
 
